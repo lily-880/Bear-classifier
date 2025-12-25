@@ -1,4 +1,6 @@
-voila
+fastai==2.7.12
+torch==2.0.1
+torchvision==0.15.2
 ipywidgets
-fastai
+voila
 pillow
