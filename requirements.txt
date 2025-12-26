@@ -1,8 +1,8 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.0.1+cpu
-torchvision==0.15.2+cpu
-fastai==2.7.12
+torch==2.9.1+cpu
+torchvision==0.24.1+cpu
 
+fastai==2.8.6
 fasttransform
 cloudpickle
 
@@ -10,5 +10,3 @@ voila
 ipywidgets
 pillow
 numpy<2
-
-
